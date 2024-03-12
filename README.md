@@ -5,7 +5,7 @@ _______________
 
 "Hello! I'm a programmer with a knack for turning coffee into code. Let's create some software magic!"
 _________________
-### Github Statistic
+### Statistics
 
 
 
