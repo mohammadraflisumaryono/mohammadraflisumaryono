@@ -2,7 +2,6 @@
 ## Hello! i'm mohammadraflisumaryono👋
 _______________
 
-<img src=" https://i.pinimg.com/564x/e1/ef/07/e1ef07ffebb1e11483cbcea59450f865.jpg " alt="photo" >
 
 "Hello! I'm a programmer with a knack for turning coffee into code. Let's create some software magic!"
 _________________
