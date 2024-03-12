@@ -7,7 +7,7 @@ _________________
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadraflisumaryono)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadraflisumaryono&hide_progress=true)
 <!--
 **mohammadraflisumaryono/mohammadraflisumaryono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
