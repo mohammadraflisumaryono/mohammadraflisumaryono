@@ -1,4 +1,4 @@
-<img src=" https://unsplash.com/photos/moon-wKlqqfNTLsI " width="200">
+<img src=" https://unsplash.com/photos/moon-wKlqqfNTLsI " alt="photo" >
 
 ## Hello! i'm mohammadraflisumaryono👋
 _______________
