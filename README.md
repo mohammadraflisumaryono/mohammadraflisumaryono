@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! i'm mohammadraflisumaryono👋
+
+
+"Hello! I'm a programmer with a knack for turning coffee into code. Let's create some software magic!"
 
 <!--
 **mohammadraflisumaryono/mohammadraflisumaryono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
