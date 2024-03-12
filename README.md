@@ -3,6 +3,10 @@ _______________
 
 
 "Hello! I'm a programmer with a knack for turning coffee into code. Let's create some software magic!"
+_________________
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadraflisumaryono)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mohammadraflisumaryono/mohammadraflisumaryono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
