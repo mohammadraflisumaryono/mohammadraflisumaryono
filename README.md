@@ -1,4 +1,4 @@
-![Seekor Anjing Lucu](https://unsplash.com/photos/moon-wKlqqfNTLsI)
+![Moon](https://unsplash.com/photos/moon-wKlqqfNTLsI)
 
 ## Hello! i'm mohammadraflisumaryono👋
 _______________
